@@ -4,7 +4,7 @@ You can ask questions or get in touch with the MDN Web Docs team and community t
 
 MDN 한국 전용 채널은 아래 채널을 운영하고 있습니다. 아래 채널로 문의 부탁드립니다.
 
-- [yari-content-ko팀 google groups](https://groups.google.com/g/yari-conetnt-ko)
+- [yari-content-ko팀 google groups](https://groups.google.com/g/yari-content-ko)
 - [MDN Discord #korean 채널](https://discord.com/channels/1009925603572600863/1070064829466939503)
 
 ## About
